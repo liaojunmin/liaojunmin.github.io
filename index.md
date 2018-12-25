@@ -1,2 +1,0 @@
-# Junmin Liao
-Hello, world!
