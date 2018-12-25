@@ -1,0 +1,5 @@
+*.org#
+*.org~
+*.html
+*.el#
+.DS_Store
